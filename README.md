@@ -1,2 +1,5 @@
-# Learn-Bash-Shell-Scripting-For-Automation
-Learn Bash Shell Scripting For Automation, by Packt Publishing
+Bash shell scripting is a programming language to automate tasks and interact with the operating system in Unix/Linux. It allows users to write scripts that execute a series of commands, make decisions based on conditions, and manipulate data. Using variables, loops, and functions, users can create powerful scripts to streamline repetitive tasks, manage system configurations, and improve system automation efficiency. 
+
+The course elaborates on Bash shell scripting in Unix/Linux environments. The course covers basic shell script writing to advanced automation techniques. Students will learn about environment setup, variable handling, conditional statements, loops, and functions. The course delves into essential Unix filters like grep, awk, and sed to manipulate data. It covers working with remote servers, interacting with REST APIs, and handling regular expressions. With practical projects and real-world examples, students will gain hands-on experience in automating tasks, enhancing productivity, and becoming proficient in Linux/Unix administration and automation. 
+
+Upon completion, students will be skilled in Bash scripting for Unix/Linux environments, automate tasks, manage configurations, and manipulate data effectively. The course covers conditional statements, loops, functions, and practical projects, providing hands-on experience. 
